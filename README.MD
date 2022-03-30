@@ -27,3 +27,22 @@ educational purposes. It is aimed to students and It will be shared on a YouTube
     </li>
     <br>
 </div>
+
+## Class Math overview
+
+This library provides tools and Java Math
+functions to perform basic mathematical operations:
+- square root
+- cubre root
+- logarithmic
+- trigonometric functions
+
+
+<br>
+
+### Other insighful links
+<div>
+    <li>
+        <a href="https://www.tutorialgateway.org/java-math-library/">Tutorial Gateway</a>
+    </li>
+</div>
