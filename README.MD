@@ -40,7 +40,7 @@ functions to perform basic mathematical operations:
 
 <br>
 
-### Other insighful links
+### Other insightful links
 <div>
     <li>
         <a href="https://www.tutorialgateway.org/java-math-library/">Tutorial Gateway</a>
